@@ -66,6 +66,10 @@ header {
     margin-bottom: 100px;
 }
 
+#meio .image-row {
+    margin-top: 20px;
+}
+
 .image-row img {
     width: 500px;
     height: 500px;
