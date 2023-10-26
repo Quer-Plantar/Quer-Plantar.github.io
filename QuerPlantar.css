@@ -51,7 +51,7 @@ header {
 }
 
 #meio {
-    margin-top: 0px;
+    margin-top: -4px;
     background: repeating-linear-gradient(45deg, beige 0, rgb(241, 241, 204) 10px, beige 10px, rgb(241, 241, 204) 15px);
     display: flex;
     text-align: justify;
